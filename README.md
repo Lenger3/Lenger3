@@ -54,29 +54,16 @@
 
 ## GitHub Stats
 
-<!-- Primary: vercel hosted stats -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-      width="48%"
-      onerror="this.style.display='none'" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true"
-      width="48%"
-      onerror="this.style.display='none'" />
-  </picture>
+  <img src="https://img.shields.io/github/public_repos/Lenger3?label=Public%20Repos&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/followers/Lenger3?label=Followers&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/stars/Lenger3?label=Total%20Stars&style=for-the-badge&color=00FFAA&labelColor=0d1117&affiliations=OWNER"/>
 </p>
 
-<!-- Fallback: shields.io static badges as stats summary -->
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Lenger3?label=Public%20Repos&style=flat-square&color=00FFAA"/>
-  <img src="https://img.shields.io/github/followers/Lenger3?label=Followers&style=flat-square&color=00FFAA"/>
-  <img src="https://img.shields.io/github/stars/Lenger3?label=Total%20Stars&style=flat-square&color=00FFAA&affiliations=OWNER"/>
+  <img src="https://img.shields.io/github/last-commit/Lenger3/CodeRAG?label=CodeRAG%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/last-commit/Lenger3/IpCam_Objecy_Dedection?label=IpCam%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/last-commit/Lenger3/Mobility_Data_App?label=Mobility%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
 </p>
 
 ---
