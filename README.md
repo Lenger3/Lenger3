@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/taha-lenger-575794299">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/taha49384">
+  <a href="">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://github.com/Lenger3">
