@@ -52,10 +52,21 @@
 
 ---
 
-## GitHub Stats
+## What I Focus On 🎯
+
+| Area | Topics |
+|---|---|
+| 🧠 **Edge AI / TinyML** | Model compression, on-device inference, sensor fusion |
+| 👁️ **Computer Vision** | Object detection, real-time video streams, YOLO |
+| 🤖 **AI Pipelines** | RAG systems, LLM integration, vector search |
+| 🚗 **Mobility & Data** | Driving behavior analysis, motion data processing |
+| ⚙️ **Systems** | High-performance C++, embedded-friendly architectures |
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/github/public_repos/Lenger3?label=Public%20Repos&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
+  <i>"Code that sees. Systems that think."</i>
+</p>  <img src="https://img.shields.io/github/public_repos/Lenger3?label=Public%20Repos&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
   <img src="https://img.shields.io/github/followers/Lenger3?label=Followers&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
   <img src="https://img.shields.io/github/stars/Lenger3?label=Total%20Stars&style=for-the-badge&color=00FFAA&labelColor=0d1117&affiliations=OWNER"/>
 </p>
