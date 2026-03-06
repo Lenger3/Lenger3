@@ -41,28 +41,45 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,opencv,git,github,linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## GitHub Stats
 
+<!-- Primary: vercel hosted stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lenger3&theme=radical&hide_border=true" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+      width="48%"
+      onerror="this.style.display='none'" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true"
+      width="48%"
+      onerror="this.style.display='none'" />
+  </picture>
 </p>
 
+<!-- Fallback: shields.io static badges as stats summary -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://img.shields.io/github/repos/Lenger3?label=Public%20Repos&style=flat-square&color=00FFAA"/>
+  <img src="https://img.shields.io/github/followers/Lenger3?label=Followers&style=flat-square&color=00FFAA"/>
+  <img src="https://img.shields.io/github/stars/Lenger3?label=Total%20Stars&style=flat-square&color=00FFAA&affiliations=OWNER"/>
 </p>
 
 ---
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/Lenger3/Lenger3/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
 
 <!-- Visitor counter -->
 <p align="center">
