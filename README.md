@@ -1,46 +1,74 @@
-<!-- Başlık + typing efekti -->
+<!-- Typing SVG header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Merhaba!+Ben+Taha;DL+%26+ML+%26+PythonDeveloper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Taha+Lenger;TinyML+%26+Edge+AI+Developer;Computer+Vision+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
 </h1>
 
-<!-- Kısa intro -->
+<!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-lenger-575794299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/taha49384"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/taha-lenger-575794299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/taha49384">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Lenger3">
+    <img src="https://img.shields.io/badge/GitHub-Lenger3-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<!-- Hakkımda -->
-## Hakkımda 🚀
-- 📱 Flutter ile **cross-platform** mobil uygulama geliştiriyorum  
-- 🧠 TinyML & sensör verisiyle edge AI projeleri yapıyorum  
-- 🎯 Şu an **araba sürüş analizi** ve **düşme tespiti** üzerine çalışıyorum  
-- 📈 2025 hedefim: 1 ürün → 10k+ indirme + CodeForces Expert  
+---
 
-<!-- İstatistik kartları – en popüler olanlar -->
+## About Me 🚀
+
+- 🧠 Building **TinyML & Edge AI** systems with sensor data on constrained devices
+- 📡 Working on **real-time object detection** via IP cameras
+- 🚗 Currently exploring **driving behavior analysis** and **fall detection**
+- 🤖 Passionate about **RAG pipelines** and code intelligence tools
+- ⚡ Languages of choice: **Python** and **C++**
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔍 [**CodeRAG**](https://github.com/Lenger3/CodeRAG) | RAG-powered code search & AI assistant for large codebases | `Python` `LLM` `Vector Search` |
+| 📡 [**IpCam Object Detection**](https://github.com/Lenger3/IpCam_Objecy_Dedection) | Real-time object detection on live IP camera streams | `Python` `OpenCV` `YOLO` |
+| 🚗 [**Mobility Data App**](https://github.com/Lenger3/Mobility_Data_App) | High-performance mobility & motion data processing | `C++` `Data Systems` |
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha49384&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha49384&theme=radical&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,opencv,git,github,linux" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenger3&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lenger3&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha49384&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenger3&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
-<!-- En iyi projeler – pinlediğin repolar otomatik gelir ama buraya da link at -->
-## Öne Çıkan Projeler
-- **[DriveSmart](https://github.com/taha49384/drivesmart)** — Sürüş analizi + sigorta skoru (Flutter + TensorFlow Lite)  
-- **[FallGuard](https://github.com/taha49384/fallguard)** — Yaşlılar için gerçek zamanlı düşme tespiti  
+---
 
-<!-- Teknoloji stack -->
-## Teknoloji Stack
+<!-- Snake animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tensorflow,python,git,github" />
+  <img src="https://github.com/Lenger3/Lenger3/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
-<!-- Snake animasyonu veya contribution graph -->
-![GitHub Contribution Snake](https://github.com/taha49384/taha49384/raw/output/github-contribution-grid-snake.svg)
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Lenger3/count.svg" alt="Visitor Count" />
+</p>
 
-<!-- Ziyaretçi sayısı (opsiyonel ama havalı duruyor) -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/taha49384/count.svg" alt="Visitor Count" />
+<p align="center">
+  <i>"Code that sees. Systems that think."</i>
 </p>
