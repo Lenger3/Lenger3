@@ -66,24 +66,4 @@
 
 <p align="center">
   <i>"Code that sees. Systems that think."</i>
-</p>  <img src="https://img.shields.io/github/public_repos/Lenger3?label=Public%20Repos&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/followers/Lenger3?label=Followers&style=for-the-badge&color=00FFAA&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/stars/Lenger3?label=Total%20Stars&style=for-the-badge&color=00FFAA&labelColor=0d1117&affiliations=OWNER"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Lenger3/CodeRAG?label=CodeRAG%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/last-commit/Lenger3/IpCam_Objecy_Dedection?label=IpCam%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/last-commit/Lenger3/Mobility_Data_App?label=Mobility%20Last%20Commit&style=flat-square&color=00FFAA&labelColor=0d1117"/>
-</p>
-
----
-
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Lenger3/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <i>"Code that sees. Systems that think."</i>
 </p>
