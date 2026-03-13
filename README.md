@@ -1,0 +1,68 @@
+<!-- Typing SVG header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Taha+Lenger;TinyML+%26+Edge+AI+Developer;Computer+Vision+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
+</h1>
+
+<!-- Social badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-lenger-575794299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Lenger3">
+    <img src="https://img.shields.io/badge/GitHub-Lenger3-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## About Me 🚀
+-  🧠 Building TinyML & Edge AI systems that run on low-resource devices using sensor data
+-  📡 Working on real-time object detection with IP cameras
+-  🔌 Developing IoT systems and enjoy working close to hardware and embedded devices
+-  🤖 Passionate about RAG pipelines and AI-powered developer tools
+-  ⚡ Primary language: Python
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔍 [**CodeRAG**](https://github.com/Lenger3/CodeRAG) | RAG-powered code search & AI assistant for large codebases | `Python` `LLM` `Vector Search` |
+| 📡 [**IpCam Object Detection**](https://github.com/Lenger3/IpCam_Objecy_Dedection) | Real-time object detection on live IP camera streams | `Python` `OpenCV` `YOLO` |
+| 🚗 [**Mobility Data App**](https://github.com/Lenger3/Mobility_Data_App) | High-performance mobility & motion data processing | `C++` `Data Systems` |
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## What I Focus On 🎯
+
+| Area | Topics |
+|---|---|
+| 🧠 **Edge AI / TinyML** | Model compression, on-device inference, sensor fusion |
+| 👁️ **Computer Vision** | Object detection, real-time video streams, YOLO |
+| 🤖 **AI Pipelines** | RAG systems, LLM integration, vector search |
+| 🚗 **Mobility & Data** | Driving behavior analysis, motion data processing |
+| ⚙️ **Systems** | High-performance C++, embedded-friendly architectures |
+
+---
+
+<p align="center">
+  <i>"Code that sees. Systems that think."</i>
+</p>
